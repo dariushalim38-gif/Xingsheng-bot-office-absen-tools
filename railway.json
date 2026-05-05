@@ -1,0 +1,6 @@
+{
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "startCommand": "python Tukang_Denda_bot.py"
+}
